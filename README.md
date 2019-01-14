@@ -1,6 +1,6 @@
 # contact_list_app
 
-Manage your contacts
+Flutter App - Manage your contacts
 
 ## Getting Started
 
